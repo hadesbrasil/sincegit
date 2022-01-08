@@ -1,4 +1,4 @@
 ### bom dia 👋
 
-- 📌 Trabalhando com JavaScript e Lua
+- 📌 Trabalhando com JavaScript, Python e Lua
 - 📌 Criando um AntiCheat
