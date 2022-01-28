@@ -1,5 +1,5 @@
-<h1> Bom dia 👋 </h1>
-<h2> 📌 Sênior Programmer & Developer </h2>
+<h1>👋 Bom dia </h1>
+<h2>📌 Sênior Programmer & Developer </h2>
 
 - 👜 Trabalhando com JavaScript, TypeScript, Python e Lua/Luau Script
 - 🤖 Atualmente trabalhando em bots, direcionados ao Discord
@@ -12,5 +12,5 @@
 const Me = new Person();
 while (Me.Alive) { me.Code(); }
 ```
-<h1> Meus Status </h1>
+<h1>🎈 Meus Status </h1>
 <p><img src="https://github-readme-stats.vercel.app/api?username=sincegit&amp&&theme=dark&show_icons=true" alt="GitHub Stats"></p>
