@@ -13,7 +13,4 @@ const Me = new Person();
 while (Me.Alive) { me.Code(); }
 ```
 <h1> Meus Status </h1>
-<p  align="center">
-  <img src="https://raw.githubusercontent.com/sincegit/sincegit/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
-  <img src="https://raw.githubusercontent.com/sincegit/sincegit/master/profile-summary-card-output/default/1-repos-per-language.svg">
-  <img src="https://raw.githubusercontent.com/sincegit/sincegit/master/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
+[![sincegit's github stats](https://github-readme-stats.vercel.app/api?username=sincegit&theme=dark&show_icons=true)](https://github.com/sincegit)
