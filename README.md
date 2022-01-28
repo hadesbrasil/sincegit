@@ -2,6 +2,7 @@
 <h2>📌 Sênior Programmer & Developer </h2>
 
 - > 👜 Trabalhando com **__JavaScript, TypeScript, Python e Lua/Luau Script__**
+- > 🎄 Habilidades: **__HTML & CSS, Next JS e Firebase__**
 - > 🤖 Atualmente trabalhando em bots, direcionados ao Discord
 - > 🏆 Posse dos Servidores: [Central Coach](https://discord.gg/QvKA739HTa) | [Central Team](https://discord.gg/wY6mhve5aW)
 
