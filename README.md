@@ -1,4 +1,4 @@
-### bom dia 👋
+<h1> bom dia 👋 </h1>
 
 - 📌 Trabalhando com JavaScript, TypeScript, Python e Lua/Luau Script
 - 📌 Atualmente trabalhando em bots, direcionados ao Discord
