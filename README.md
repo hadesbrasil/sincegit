@@ -12,3 +12,4 @@
 const Me = new Person();
 while (Me.Alive) { me.Code(); }
 ```
+<p><img src="https://github-readme-stats.vercel.app/api?username=sincegit&amp;show_icons=true" alt="GitHub Stats"></p>
