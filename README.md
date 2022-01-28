@@ -1,4 +1,5 @@
-<h1> bom dia 👋 </h1>
+<h1> Bom dia 👋 </h1>
+<h2> Sênior Developer <h2>
 
 - 📌 Trabalhando com JavaScript, TypeScript, Python e Lua/Luau Script
 - 📌 Atualmente trabalhando em bots, direcionados ao Discord
