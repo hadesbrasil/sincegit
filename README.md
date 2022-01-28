@@ -13,4 +13,4 @@ const Me = new Person();
 while (Me.Alive) { me.Code(); }
 ```
 <h1> Meus Status </h1>
-[![sincegit's github stats](https://github-readme-stats.vercel.app/api?username=sincegit&theme=dark&show_icons=true)](https://github.com/sincegit)
+![sincegit's github stats](https://github-readme-stats.vercel.app/api?username=sincegit&theme=dark&show_icons=true)](https://github.com/sincegit)
