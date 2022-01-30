@@ -1,4 +1,4 @@
-<h1>👋 Bom dia </h1>
+<h1>👋 Bom dia, seja bem-vindo(a) ao meu perfil! </h1>
 <h2>📌 Sênior Programmer, Game Developer & Designer </h2>
 <h3>🎉 Front-end & Back-end </h3>
 - > 👜 Trabalhando com **__JavaScript, TypeScript, Python e Lua/Luau Script__**
