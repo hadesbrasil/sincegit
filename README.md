@@ -1,6 +1,6 @@
 <h1>👋 Bom dia </h1>
-<h2>📌 Sênior Programmer & Developer </h2>
-
+<h2>📌 Sênior Programmer, Game Developer & Designer </h2>
+<h3>🎉 Front-end & Back-end </h3>
 - > 👜 Trabalhando com **__JavaScript, TypeScript, Python e Lua/Luau Script__**
 - > 🎄 Habilidades: **__HTML & CSS, Next JS e Firebase__**
 - > 🤖 Atualmente trabalhando em bots, direcionados ao Discord
