@@ -11,5 +11,5 @@ me.Skills = {
   Skills.HTMLCSS,
 }
 ```
-<h1>🎈 Meus Status </h1>
-<p><img src="https://github-readme-stats.vercel.app/api?username=sincegit&amp&&theme=dark&show_icons=true" alt="GitHub Stats"></p>
+<h1>🎈 Meus Status</h1>
+<p><img src="https://github-readme-stats.vercel.app/api?username=sincegit&amp&&theme=dark&show_icons=false" alt="GitHub Stats"></p>
